@@ -50,7 +50,7 @@ function calculer_bill($unités){
 <body>
 
 	<div id="page-wrap">
-		<h1>Php - Calculate Electricity Bill</h1>
+		
 
 		<form action="" method="post" id="quiz-form">
             	<input type="number" name="unités" id="unités"  />
